@@ -1,0 +1,17 @@
+Jadwal Kuliah Kelas TI22E
+
+Senin
+Pemrograman II (PBO) 09:30-12:00
+Arsitektur dan Organisasi Komputer 13:00-15:00
+Kalkulus II 15:30-17:10
+
+Selasa
+Sistem Informasi (APSI) 13:00-14:50
+
+Kamis
+Komunikasi Data 08:00-09:40
+Struktur Data dan Algoritma 09:41-12:10
+
+Jumat
+AIK 2 (Ibadah, Akhlak, Muamalah) 08:00-09:40
+Statistik dan Probabilitas 13:00-14:40
